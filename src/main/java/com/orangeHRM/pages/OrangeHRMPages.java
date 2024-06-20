@@ -15,10 +15,6 @@ public class OrangeHRMPages extends BasePage {
     protected SideBarMenu sideBarMenu;
 
 
-
-
-
-
     @BeforeClass(alwaysRun = true)
     public void setUp() {
 
